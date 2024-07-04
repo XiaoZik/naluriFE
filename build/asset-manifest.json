@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41f3e3ae.css",
+    "main.js": "/static/js/main.315488c5.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/sun-unscreen.gif": "/static/media/sun-unscreen.00410d73d6663468659d.gif",
+    "static/media/Screenshot_33.jpg": "/static/media/Screenshot_33.d018ab0a3ba85c992976.jpg",
+    "static/media/Death_Star.otf": "/static/media/Death_Star.703947d0da197aa7d2c6.otf",
+    "static/media/Group6.png": "/static/media/Group6.934a6d011706f10f9595.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.41f3e3ae.css.map": "/static/css/main.41f3e3ae.css.map",
+    "main.315488c5.js.map": "/static/js/main.315488c5.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f3e3ae.css",
+    "static/js/main.315488c5.js"
+  ]
+}
