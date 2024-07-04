@@ -1,0 +1,12 @@
+/* Example fonts.css */
+
+@font-face {
+    font-family: 'YourOTFFontName';
+    src: url('./assets/Death_Star.otf') format('opentype');
+    /* Add more src entries for other formats if needed */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Define additional @font-face rules for other OTF fonts if needed */
+  

@@ -1,38 +1,44 @@
-.App {
+@import url('./fonts.css');
+
+.mainBody {
+  margin: 0;
+  background-image: url("./assets/Screenshot_33.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.content{
+  padding-top: 6vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+body, html, p {
+  margin: 0;
+  padding: 0;
+  font-family:'YourOTFFontName';
+  color: #00000000;
+  font-size: 30px;
+  -webkit-text-stroke: 3px #CEB7FF;
+  word-wrap: break-word; /* Ensures long words are broken and wrap onto the next line */
+  word-break: break-all; /* Handles non-standard word breaks (e.g., URLs) */
+  white-space: normal;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p{
+  padding: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.img1{
+  position: absolute;
+  top:30vh
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.img2{
+  position: absolute;
+  top:86vh;
+  left:73vw;
 }
